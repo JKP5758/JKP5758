@@ -14,8 +14,6 @@ Hi! 👋<br><br>👤 My name is Joko Purnomo. <br>🧰 I am a computer technicia
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JKP5758&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 
 
-<img src="https://raw.githubusercontent.com/JKP5758/JKP5758/output/snake.svg" alt="Snake animation" />
-
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=JKP5758&limit=5&theme=dark&combine_all_yearly_contributions=true)
