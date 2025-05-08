@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! 👋<br><br>👤 My name is Joko Purnomo. <br>🧰 I am a computer technician at SMK Muhammadiyah Boyolali,<br>🎓 and now I am studying at Politeknik Indonusa Surakarta.<br>💡 I like coding, photography and learning new things.<br>🛠️ I can make websites, static websites or use databases like cashiers or so on and I can also make my own website server (although it's still not good) and I will keep trying.<br>😃 Maybe that's all about me<br><br>Oh,<br>and I also love cats 🐱
+Hi! 👋<br><br>👤 My name is Joko Purnomo. <br>🧰 I am a computer technician at SMK Muhammadiyah Boyolali,<br>🎓 and now I am studying at Politeknik Indonusa Surakarta.<br>💡 I like coding, photography and learning new things.<br>🛠️ I can make websites, static websites or use databases like cashiers or so on and I can also make my own website server (although it's still not good) and I will keep trying.<br>😃 Maybe that's all about me<br>
 
 
 ## 🌐 Socials:
