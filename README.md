@@ -41,3 +41,5 @@ My name is **Joko Purnomo**.
 ---
 
 ✨ *“Always learning, always growing.”* ✨  
+
+- I'm a pentester too, by the way.
