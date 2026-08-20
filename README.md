@@ -1,20 +1,12 @@
 # 💫 About Me:
 Hi there! 👋 <br>
-My name is **Joko Purnomo**.  
+My name is **Joko P**.  
 
 - 👤 Computer Technician at **SMK Muhammadiyah Boyolali**  
 - 🎓 Studying **Software Engineering** at *Politeknik Indonusa Surakarta*  
 - 💡 Passionate about **coding, photography, and learning new things**  
 - 🛠️ I enjoy building websites (both static & dynamic), experimenting with databases (like cashier apps), and even setting up my own web servers (still learning, but improving everyday 🚀)  
 - 😃 Always curious and open to challenges!  
-
----
-
-## 🌐 Connect with Me:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jkp5758)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jkp_web)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JKP5758)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@JKP_com)  
 
 ---
 
