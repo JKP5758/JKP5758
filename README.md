@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there! 👋 <br>
-My name is **Joko P**.  
+My name is **JKP**.  
 
 - 👤 Computer Technician at **SMK Muhammadiyah Boyolali**  
 - 🎓 Studying **Software Engineering** at *Politeknik Indonusa Surakarta*  
